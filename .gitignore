@@ -1,0 +1,26 @@
+# Maven 构建输出
+target/
+
+# Java 编译产物
+*.class
+*.log
+*.jar
+*.war
+*.ear
+
+# IDE / 编辑器配置
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# 操作系统生成文件
+.DS_Store
+Thumbs.db
+
+# 其他临时文件
+*.swp
+*.swo
+*~
